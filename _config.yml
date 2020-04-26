@@ -1,0 +1,17 @@
+
+theme: jekyll-theme-minimal
+
+title: marunomi_
+description: Hello ~~~~~~~~~~~~~~~~~~~~~~~~~~~   I am marunomi~~~~~~~~雑整備中です⚠
+logo: img/icon.jpg
+
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+
+github: [metadata]
+repository: marunomi/marunomi.github.io
+google_analytics: UA-164526787-1
