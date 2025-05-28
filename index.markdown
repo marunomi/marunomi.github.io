@@ -7,7 +7,6 @@ permalink: /
 ## My iOS Apps
 - Knittly
     - [Privacy Policy](./privacyPolicy.html)
-    - [Terms & Conditions](./termsAndConditions.html)
 
 ## Contact
 
